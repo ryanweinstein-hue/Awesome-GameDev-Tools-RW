@@ -1,0 +1,36 @@
+Game Programer
+Makes the game functional and real
+Subcategories
+AI Programer
+Creates algorithms to create the behaviors of other entities(Ex. Enemy movement, camera control, pathfinding, etc.)
+Gameplay Engineer
+Create evaluation code, math, UI events, player notifications, refine software tools, etc.
+
+
+Game Designer
+Comes up with the ideas for the games
+Subcategories
+Systems Designer
+Identify what is required to build the game and manage the performance of the game
+Level Designer
+Creates the levels to be intuitively able to be played and beaten by the player without messing up the games feel
+
+
+
+Game Artist
+Makes the visual assets
+Subcategories
+3-D Character Artist
+Creates the 3-D models based off of the concept art
+Environment Artist
+Builds the environment of the game and makes sure the area fits the design of the world
+
+
+
+Game Production Manager
+Makes sure every other team is on time and that everything works properly
+
+
+
+Sound Designers
+Makes all audio for the game
